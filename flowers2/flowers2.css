@@ -1,0 +1,118 @@
+/* CSS declarations go here */
+/* For main background */
+
+body {
+	background-color: #fcf5ed;
+}
+
+/* Top  /  header bar */
+#zoommain-cont {
+	margin-top: 2%;
+}
+#zoombar-cont {
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	min-height: 3em;
+	background-color: black;
+	border-radius: .5em;
+}
+
+.zoombar-cat {
+	color: #fcf5ed;
+	min-height: 3em;
+	vertical-align: middle;
+	padding-top: .75em;
+}
+/* Home page shenans */
+#carousel-cont {
+	width: 60%;
+	margin-left:20%;
+	margin-top: 1%;
+}
+#home-car {
+	width: 100%;
+}
+
+
+.item img {
+	height: auto;
+	width: 100%;
+}
+
+/*My Story */
+
+#story-cont {
+	width: 80%;
+	height: 32em;
+	margin-left: 10%;
+	border-radius: 1em;
+	padding: 1em;
+	padding-top: 3em;
+	background-color:rgba(255,255,255,0.4);
+	overflow-y: scroll;
+}
+
+#storyPic {
+	float: left;
+	height: 20em;
+	width: auto;
+	margin-left: 2em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	border-radius: 0.25em;
+}
+#firstPara {
+	margin-top: 1em;
+}
+
+.storyText {
+	margin-right: 1em;
+	margin-left: 1em;
+	font-family: 'Chivo', sans-serif;
+	font-size: 1.2em;
+}
+
+/*My Work*/
+#work-cont {
+	width: 80%;
+	height: 32em;
+	margin-left: 10%;
+	border-radius: 1em;
+	padding: 1em;
+	padding-top: 3em;
+	background-color:rgba(255,255,255,0.4);
+	overflow-y: scroll;
+}
+
+
+/*My Contact*/
+#contact-cont {
+	width: 80%;
+	height: 32em;
+	margin-left: 10%;
+	border-radius: 1em;
+	padding: 1em;
+	padding-top: 3em;
+	background-color:rgba(255,255,255,0.4);
+	overflow-y: scroll;
+}
+.contactp {
+	font-family: 'Chivo', sans-serif;
+	font-size: 1.2em;
+	margin-left:2em;
+}
+.bigCat {
+	font-family: 'Chivo', sans-serif;
+	font-weight: 900;
+	font-size: 2em;
+	color: #174a3f;
+}
+
+.cat {
+	font-family: 'Chivo', sans-serif;
+	font-size: 1.5em;
+	color: #174a3f;
+}
+
